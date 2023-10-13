@@ -1,7 +1,7 @@
 
 # Hi there
 
-![Github Banner](assets/github-banner.webp)
+![Github Banner](assets/cover.png)
 
 
 🔭 I’m currently working on **React JS and Tailwind Projects** <br>
