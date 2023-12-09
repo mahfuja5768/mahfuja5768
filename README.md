@@ -11,7 +11,8 @@
 </div>
 📫 Reach me through email: mahfujaahsanmuna@gmail.com <br> <br><br>
 
-# 💫 About Me:
+# 💫 About Me: 
+### Proficient in HTML, CSS, and JavaScript, I am always exploring new frameworks and libraries to stay at the forefront of front-end development trends. I am a strong advocate for clean and maintainable code,
 
 ## :coffee: &emsp;Connect with me!
 
