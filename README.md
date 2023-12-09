@@ -1,4 +1,4 @@
-![Github Banner](assets/cover.png)
+<img src='https://media.licdn.com/dms/image/D5616AQFySUhqy5UfbA/profile-displaybackgroundimage-shrink_350_1400/0/1702116868890?e=1707350400&v=beta&t=WqDjRxoZgoqvMOdnMXNBKr-tybcWqQG6tNCAFM9ZOLo' /> 
 
 # <p align="center">👋 Hi there
 
