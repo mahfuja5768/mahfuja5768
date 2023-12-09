@@ -44,11 +44,7 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahfuja5768&theme=vision_friendly_dark" width=800 alt="Markdown Usage
 "><br/><br/>
 
-<div style="display:flex; flex-direction:row; justify-content:center; gap:10px">
- <div> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahfuja5768&theme=vision_friendly_dark" alt="Markdown Usage
-"></div>
- <div> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahfuja5768&theme=vision_friendly_dark" alt="Markdown Usage
-"></div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuja5768&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
  
 </div>
 <br/><br/>
