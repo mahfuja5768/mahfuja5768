@@ -41,7 +41,6 @@
 
 # 📃 Summary of my profile:
 
-<p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahfuja5768&theme=vision_friendly_dark" width=800 alt="Markdown Usage
 "><br/><br/>
 
@@ -59,4 +58,4 @@
  <div> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahfuja5768&theme=vision_friendly_dark&utcOffset=8" alt="Markdown Usage
 "></div>
  
-</div> </p>
+</div> 
